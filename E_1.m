@@ -8,6 +8,7 @@ a=0:0.1:2
 b=ones(21,1)
 a*b
 b*a
+a.*b
 %Subpunctul c) pentru E1 este ambiguu pentru mine, nu inteleg ce trebuie
 %facut.
 
